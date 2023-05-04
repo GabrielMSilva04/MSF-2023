@@ -1,0 +1,14 @@
+a)v(t) = v(t=0) + at
+  y(x) = y(x=0) + mx
+  a = m(declive), para qualquer x = t
+
+
+d) resultado exato = 9.8*3 = 29.4
+   resultado em b) 29.399999999999913
+   resultado em c) 29.39999999999819
+   são equivalentes
+
+g) y = y0 + v0 * t + 0.5 * a*t**2 = 0 + 0*2 + 0.5*9.8*(2**2) = 19.6
+   resultado em e) 19.502000000000027
+   resultado em f) 19.590200000000138
+   o resultado em f assemelha-se mais porque delta de f foi menor
